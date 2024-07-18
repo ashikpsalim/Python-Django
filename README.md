@@ -27,3 +27,16 @@ A Django-based web application for managing patient records, including registrat
 
 ### Login Page
 ![Login Page](https://github.com/ashikpsalim/Python-Django/blob/main/patientrecords/screenshots/login.png)
+
+### Homepage 
+![Homepage](https://github.com/ashikpsalim/Python-Django/blob/main/patientrecords/screenshots/homepage.png)
+
+### Registration
+![Registration](https://github.com/ashikpsalim/Python-Django/blob/main/patientrecords/screenshots/register.png)
+
+### Patients Record
+![Patients Record](https://github.com/ashikpsalim/Python-Django/blob/main/patientrecords/screenshots/consult%20patients.png)
+
+### Consultation
+![Consultation](https://github.com/ashikpsalim/Python-Django/blob/main/patientrecords/screenshots/consulting.png)
+
