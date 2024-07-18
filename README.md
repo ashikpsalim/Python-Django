@@ -5,6 +5,7 @@ A Django-based web application for managing patient records, including registrat
 ## Table of Contents
 - [Features](#features)
 - [Requirements](#requirements)
+- [Screeshots](#screenshots)
 
 
 
@@ -22,4 +23,7 @@ A Django-based web application for managing patient records, including registrat
 - SQLite (default database, can be replaced with any other supported by Django)
 - Other dependencies as listed in `requirements.txt`
 
+## Screenshots
 
+### Login Page
+![Login Page](https://github.com/ashikpsalim/Python-Django/blob/main/patientrecords/screenshots/login.png)
